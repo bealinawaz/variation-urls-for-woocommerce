@@ -1,0 +1,11 @@
+.vurl-share {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.5em 1em;
+	margin: 1em 0;
+}
+
+.vurl-share[hidden] {
+	display: none;
+}
